@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "app-alimentos-ee",
+    "slug": "app-alimentos-ee",
+    "extra": {
+      "eas": {
+        "projectId": "ce263b8a-e3b1-4a0d-bd1a-ec05f838cc3d"
+      }
+    },
+    "android": {
+      "package": "com.trueno950.appalimentosee"
+    }
+  }
+}
